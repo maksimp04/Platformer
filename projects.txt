@@ -1,1 +1,1 @@
-array("First Level","Adventure","Hard Level")
+First_Level; Hard_Level; Undertale;
