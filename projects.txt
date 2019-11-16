@@ -1,2 +1,1 @@
-Super_Mario_Bros:_First_stage#https://media.discordapp.net/attachments/579028287938887691/600746668748439567/13.png;
-VOXEL_PIDOR#cdn.discordapp.com/avatars/291560397167788032/8a949124289dec0641afa8ad637b0039.png;
+Super_Mario_Bros:_First_stage#https://media.discordapp.net/attachments/579028287938887691/600746668748439567/13.png;VOXEL_PIDOR#cdn.discordapp.com/avatars/291560397167788032/8a949124289dec0641afa8ad637b0039.png;
